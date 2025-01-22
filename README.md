@@ -40,6 +40,7 @@ Database Developer
 Students/Looking/None
 
 Objective
+
 The dashboard is designed to:
 
 Provide insights into data professionals' demographics and career satisfaction.
@@ -47,6 +48,7 @@ Analyze the relationship between job roles, salary, and gender distribution.
 Highlight popular programming languages among data professionals.
 
 How to Use
+
 Explore Filters: Filter data interactively to analyze specific subsets (e.g., by country or job role).
 Analyze Trends: Use charts and metrics to identify trends in work satisfaction, salary, and programming preferences.
 Derive Insights: Utilize the information to understand key factors influencing data professionals’ career paths.
