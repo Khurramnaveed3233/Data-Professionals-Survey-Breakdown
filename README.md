@@ -2,8 +2,6 @@
 
 ![Data Professionals Survey Breakdown](https://github.com/user-attachments/assets/ab3515fa-0656-4df8-80a8-81b9616ae2d2)
 
-# 👩‍💻 Data Professional Survey Breakdown Dashboard
-
 ## 📘 About the Project
 
 In the fast-growing world of data careers, understanding the factors that influence job satisfaction, salary trends, and skill preferences is essential. This project explores survey responses from 630 data professionals across different countries and job roles. The dashboard helps uncover meaningful patterns related to demographics, work-life balance, salary satisfaction, and programming language preferences.
@@ -65,16 +63,6 @@ This dashboard enables:
 - **Missing Values**: Several records were incomplete, so filters and clean logic were applied to avoid skewed results.
 - **Imbalanced Gender Data**: The majority of responses were from male professionals, so charts were adjusted to show percentages instead of absolute values for better insight.
 - **Categorization**: Rare job titles were grouped under "Other" for cleaner visualization and interpretation.
-
----
-
-## 🎥 Optional Video Walkthrough
-
-**Suggested Structure for a 2–3 Minute Walkthrough**:
-1. **Introduction**: Brief overview of the survey and dashboard goals.
-2. **Dashboard Overview**: Show major sections—salary by job title, gender breakdown, language usage.
-3. **Key Insights**: Highlight top findings, such as the most used language (Python), or job roles with highest satisfaction.
-4. **Closing Thoughts**: Discuss how this data can be used in hiring, career planning, and training.
 
 ---
 
