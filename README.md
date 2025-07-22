@@ -2,8 +2,6 @@
 
 ![Data Professionals Survey Breakdown](https://github.com/user-attachments/assets/ab3515fa-0656-4df8-80a8-81b9616ae2d2)
 
-# 📊 Data Professional Survey Dashboard: Insights into the Modern Data Career
-
 ## 📘 About the Project
 
 In the fast-growing world of data careers, understanding the factors that influence job satisfaction, salary trends, and skill preferences is essential. This project analyzes responses from **630 data professionals** across various countries, roles, and experience levels.
