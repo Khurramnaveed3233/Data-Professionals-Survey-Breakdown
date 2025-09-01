@@ -2,7 +2,7 @@
 
 ![Data Professionals Survey Breakdown](https://github.com/user-attachments/assets/ab3515fa-0656-4df8-80a8-81b9616ae2d2)
 
-## 📘 About the Project
+## About the Project
 
 In the fast-growing world of data careers, understanding the factors that influence job satisfaction, salary trends, and skill preferences is essential. This project analyzes responses from **630 data professionals** across various countries, roles, and experience levels.
 
@@ -12,7 +12,7 @@ The dashboard is built to inform **career decisions**, **HR strategy**, and **ed
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 Despite the rise in demand for data professionals, there is limited structured analysis on:
 
@@ -24,7 +24,7 @@ This project addresses the lack of visibility into the lived experiences and pre
 
 ---
 
-## ✅ Problems Solved
+##  Problems Solved
 
 This dashboard answers several key questions:
 
@@ -37,7 +37,7 @@ This dashboard answers several key questions:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. **Demographics**
    - Majority of survey participants come from **India**, followed by the **United States**, **UK**, and **Canada**.
@@ -64,7 +64,7 @@ This dashboard answers several key questions:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 1. **For Organizations & HR:**
    - Conduct regular **salary audits** to identify and correct gender-based pay gaps.
@@ -82,7 +82,7 @@ This dashboard answers several key questions:
 
 ---
 
-## 🛠️ Solution Section
+## Solution Section
 
 ### Tools Used:
 - **SQL Server**: Data cleaning, transformation, and business query generation
@@ -97,7 +97,7 @@ This dashboard answers several key questions:
 
 ---
 
-## 🧩 Challenges Faced
+## Challenges Faced
 
 - **Data Inconsistencies**: Job titles and language names varied (e.g., “JS” vs. “JavaScript”), requiring standardization for meaningful grouping.
 - **Imbalanced Gender Distribution**: Heavily skewed towards male respondents; addressed by showing **percentages** rather than raw counts.
@@ -106,7 +106,7 @@ This dashboard answers several key questions:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The **Data Professional Survey Dashboard** delivers actionable insights that go beyond basic visuals. It reveals hidden patterns in compensation, satisfaction, and skill trends, helping:
 
